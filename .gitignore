@@ -1,0 +1,9 @@
+**/__pycache__/
+.env
+.idea
+.python-version
+.venv
+desktop.ini
+site/
+temp/
+uv.lock

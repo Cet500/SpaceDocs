@@ -1,0 +1,16 @@
+site_name: SpaceDocs
+site_description: Документация
+site_url: http://localhost:8000/
+site_dir: site
+site_author: SergoIndustries
+
+theme:
+    name: readthedocs
+    language: ru
+    highlightjs: true
+
+plugins:
+    - search
+
+nav:
+    - Главная: index.md
