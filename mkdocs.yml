@@ -4,13 +4,30 @@ site_url: http://localhost:8000/
 site_dir: site
 site_author: SergoIndustries
 
+
 theme:
     name: readthedocs
     language: ru
     highlightjs: true
 
+
 plugins:
     - search
+
+
+markdown_extensions:
+    - pymdownx.superfences:
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
+    - pymdownx.highlight
+    - pymdownx.inlinehilite
+
+
+extra_javascript:
+    - https://unpkg.com/mermaid@11.12.2/dist/mermaid.min.js
+
 
 nav:
     - Главная: index.md
