@@ -31,3 +31,10 @@ extra_javascript:
 
 nav:
     - Главная: index.md
+
+    - Python Extra:
+        - Tkinter:
+            - Введение: python_extra/tkinter/index.md
+            - Документация: python_extra/tkinter/docs.md
+            - Проект - Визуальная новелла: python_extra/tkinter/tkinter_branch_visual_novel.md
+            - Проект - Пугалка Doors: python_extra/tkinter/tkinter_branch_doors_horror.md
