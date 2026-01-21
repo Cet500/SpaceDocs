@@ -36,39 +36,54 @@ nav:
         - Главная: python/index.md
 
         - Модуль 0 - Подготовка:
-            - 0.1 Что такое Python?: python/0_1_variables_basics.md
-            - 0.2 Почему выбирают Python?: python/0_2_why_python.md
-            - 0.3 Что можно делать с Python?: python/0_3_what_can_python_do.md
-            - 0.4 Инструменты для Python: python/0_4_tools_and_setup.md
+            - 0.1 Что такое Python?:          python/0/0_1_variables_basics.md
+            - 0.2 Почему выбирают Python?:    python/0/0_2_why_python.md
+            - 0.3 Что можно делать с Python?: python/0/0_3_what_can_python_do.md
+            - 0.4 Инструменты для Python:     python/0/0_4_tools_and_setup.md
 
         - Модуль 1 - Основы:
-            - 1.1 Твой первый код: python/1_1_hello_world.md
-            - 1.2 Переменные: python/1_2_variables.md
-            - 1.3 Списки: python/1_3_lists.md
-            - 1.4 Словари: python/1_4_dictionaries.md
-            - 1.5 Операторы: python/1_5_operators.md
-            - 1.6 Строковые методы: python/1_6_string_methods.md
+            - 1.1 Твой первый код:  python/1/1_1_hello_world.md
+            - 1.2 Переменные:       python/1/1_2_variables.md
+            - 1.3 Списки:           python/1/1_3_lists.md
+            - 1.4 Словари:          python/1/1_4_dictionaries.md
+            - 1.5 Операторы:        python/1/1_5_operators.md
+            - 1.6 Строковые методы: python/1/1_6_string_methods.md
 
         - Модуль 2 - Логика:
-              - 2.1 Условия: python/2_1_conditions.md
+            - 2.1 Условия:       python/2/2_1_conditions.md
+            - 2.2 Циклы:         python/2/2_2_loops.md
+            - 2.3 Приёмы Python: python/2/2_3_python_tricks.md
+
+        - Модуль 3 - Организация кода:
+            - 3.1 Функции:                python/3/3_1_functions.md
+            - 3.2 Классы:                 python/3/3_2_classes.md
+            - 3.3 Файлы:                  python/3/3_3_file_organization.md
+            - 3.4 Модули:                 python/3/3_4_modules.md
+            - 3.5 Стандартная библиотека: python/3/3_5_standard_library.md
+            - 3.6 Внешние пакеты:         python/3/3_6_external_packages.md
+            - 3.7 Работай как про:        python/3/3_7_work_as_pro.md
+
+        - Модуль 4 - Данные:
+            - 4.1 Данные - золото: python/4/4_1_data_is_gold.md
+            - 4.2 Форматы данных:  python/4/4_2_data_formats.md
 
     - Python Extra:
         - Tkinter:
-            - Введение: python_extra/tkinter/index.md
-            - Документация: python_extra/tkinter/docs.md
+            - Введение:                    python_extra/tkinter/index.md
+            - Документация:                python_extra/tkinter/docs.md
             - Проект - Визуальная новелла: python_extra/tkinter/tkinter_branch_visual_novel.md
-            - Проект - Пугалка Doors: python_extra/tkinter/tkinter_branch_doors_horror.md
+            - Проект - Пугалка Doors:      python_extra/tkinter/tkinter_branch_doors_horror.md
 
     - Web:
         - Основы:
-            - Главная: web/base/index.md
-            - Уровень 1 - HTML: web/base/web_branch_HTML.md
-            - Уровень 2 - CSS базовый: web/base/web_branch_CSS_1.md
+            - Главная:                     web/base/index.md
+            - Уровень 1 - HTML:            web/base/web_branch_HTML.md
+            - Уровень 2 - CSS базовый:     web/base/web_branch_CSS_1.md
             - Уровень 3 - CSS продвинутый: web/base/web_branch_CSS_2.md
-            - Уровень 4 - JS введение: web/base/web_branch_JS_1.md
-            - Уровень 5 - JS основы: web/base/web_branch_JS_2.md
-            - Уровень 6 - JS базовый: web/base/web_branch_JS_3.md
-            - Уровень 7 - JS продвинутый: web/base/web_branch_JS_4.md
+            - Уровень 4 - JS введение:     web/base/web_branch_JS_1.md
+            - Уровень 5 - JS основы:       web/base/web_branch_JS_2.md
+            - Уровень 6 - JS базовый:      web/base/web_branch_JS_3.md
+            - Уровень 7 - JS продвинутый:  web/base/web_branch_JS_4.md
             - Проект - Футбольная команда: web/base/web_branch_football.md
-            - Проект - Список дел: web/base/web_branch_todolist.md
-            - Проект - Генератор паролей: web/base/web_branch_gen_pass.md
+            - Проект - Список дел:         web/base/web_branch_todolist.md
+            - Проект - Генератор паролей:  web/base/web_branch_gen_pass.md
